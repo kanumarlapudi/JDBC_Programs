@@ -41,6 +41,7 @@ public class JDBC1 {
 
 		}
 		
+		//step-5 handling the exceptions
 		catch(ClassNotFoundException ce) {
 			ce.printStackTrace();
 		}
